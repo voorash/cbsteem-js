@@ -1,10 +1,10 @@
 {
-  "transport": "http",
-  "websocket": "wss://gtg.steem.house:8090",
-  "uri": "https://api.steemit.com",
+  "transport": "ws",
+  "websocket": "ws://candyland.timm.ninja:8090",
+  "uri": "ws://candyland.timm.ninja:8090",
   "url": "",
-  "dev_uri": "https://api.steemitdev.com",
-  "stage_uri": "https://api.steemitstage.com",
-  "address_prefix": "STM",
-  "chain_id": "0000000000000000000000000000000000000000000000000000000000000000"
+  "dev_uri": "ws://candyland.timm.ninja:8090",
+  "stage_uri": "ws://candyland.timm.ninja:8090",
+  "address_prefix": "CBT",
+  "chain_id": "3177d1cf0c2285afdbb42b7cf35a8df39c4918b60722050dfb42115a29d3a446"
 }
